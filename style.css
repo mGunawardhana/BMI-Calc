@@ -123,8 +123,10 @@ button#calculate:hover {
 }
 
 #yourBmi {
-    padding-top: 8px;
+    padding-top:10px;
     padding-bottom: 8px;
+
+
 }
 
 #commentId {
