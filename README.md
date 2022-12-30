@@ -9,16 +9,11 @@
 <br><br>
 <div align="center">
 
-![repo size](https://img.shields.io/github/repo-size/mGunawardhana/
-BMI-Calc?style=for-the-badge) &nbsp;
-![GitHub](https://img.shields.io/github/license/mGunawardhana/
-BMI-Calc?style=for-the-badge) &nbsp;
-![GitHub Forks](https://img.shields.io/github/forks/mGunawardhana/
-BMI-Calc?&labelColor=black&color=f7b731&style=for-the-badge) &nbsp;
-![GitHub Watchers](https://img.shields.io/github/watchers/mGunawardhana/
-BMI-Calc?style=for-the-badge) &nbsp;
-![GitHub Last Commit](https://img.shields.io/github/last-commit/mGunawardhana/
-BMI-Calc?style=for-the-badge) &nbsp;
+![repo size](https://img.shields.io/github/repo-size/mGunawardhana/BMI-Calc?style=for-the-badge) &nbsp;
+![GitHub](https://img.shields.io/github/license/mGunawardhana/BMI-Calc?style=for-the-badge) &nbsp;
+![GitHub Forks](https://img.shields.io/github/forks/mGunawardhana/BMI-Calc?&labelColor=black&color=f7b731&style=for-the-badge) &nbsp;
+![GitHub Watchers](https://img.shields.io/github/watchers/mGunawardhana/BMI-Calc?style=for-the-badge) &nbsp;
+![GitHub Last Commit](https://img.shields.io/github/last-commit/mGunawardhana/BMI-Calc?style=for-the-badge) &nbsp;
 
 </div>
 
