@@ -24,12 +24,14 @@ $('#calculate').on('click', function () {
 
     if (BMI < 18.5) {
         status = "UnderWeight !"
-    } else if (BMI >= 18.5 && BMI <24.9) {
+    } else if (BMI >= 18.5 && BMI < 24.9) {
         status = 'Healthy !'
     } else if (BMI >= 25 && BMI < 29.9) {
         status = 'OverWeight !'
     } else if (BMI >= 30) {
         status = 'Obese !'
+    } else {
+        status = 'Null'
     }
 
 
